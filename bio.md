@@ -1,5 +1,5 @@
 
-Bryce Benton is a beacon of digital innovation as the IT Applications Developer Senior at the Austin Public Library, where he has been pioneering since 2012. His career is a testament to the power of leveraging design to expand public access and community engagement. Benton excels in crafting technologies that are both accessible and engaging, driven by a design philosophy that sees technology as a bridge to knowledge, connecting individuals to a wealth of resources and experiences.
+Bryce Benton is a beacon of digital innovation as an IT Applications Developer Senior at the Austin Public Library, where he has been pioneering since 2012. His career is a testament to the power of leveraging design to expand public access and community engagement. Benton excels in crafting technologies that are both accessible and engaging, driven by a design philosophy that sees technology as a bridge to knowledge, connecting individuals to a wealth of resources and experiences.
 
 Central to Benton's ethos is the belief that technology should democratize access to knowledge, fostering an inclusive community space. His contributions have led to significant advancements, transforming the Library into an inviting, interactive, and dynamic environment for all.
 
